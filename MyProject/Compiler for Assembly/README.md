@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Daniel Gurevich.
+- 👀 I’m interested in everything related to the field of software and development.
+- 🌱 I’m currently learning at The Open University of Israel, Faculty of Computer Science.
+- 💞️ I'm looking for a job in the field of development and software, I have a crazy desire and motivation to start my way as a programmer.
+- 📫 How to reach me: Email - daniel.gurevich2@gmail.com  Phone - +972523882589.
